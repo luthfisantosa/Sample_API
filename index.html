@@ -1,99 +1,53 @@
 <!doctype html>
 <html lang="id">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Daftar Karyawan — API Static</title>
+<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Karyawan API v2.0</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <style>
-  /* macOS Monterey-inspired light theme (clean, soft shadows, rounded cards) */
-  :root{
-    --bg:#f5f7fa;
-    --card:#ffffff;
-    --muted:#6b7280;
-    --accent:#0b84ff;
-    --glass: rgba(255,255,255,0.7);
-  }
-  body{
-    margin:0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-    background: linear-gradient(180deg,var(--bg),#ffffff);
-    color:#0f172a;
-  }
-  header{
-    padding:22px;
-    backdrop-filter: blur(6px);
-    box-shadow: 0 6px 18px rgba(15,23,42,0.06);
-  }
-  .container{
-    max-width:1100px;
-    margin:18px auto;
-    padding:18px;
-  }
-  .card{
-    background:var(--card);
-    border-radius:12px;
-    padding:16px;
-    box-shadow: 0 8px 24px rgba(11,20,40,0.06);
-  }
-  h1{ margin:0 0 8px 0; font-size:20px; }
-  p.lead{ margin:0 0 14px 0; color:var(--muted); }
-  .controls{ display:flex; gap:12px; align-items:center; margin-bottom:12px; }
-  input[type="search"]{
-    flex:1;
-    padding:10px 12px;
-    border-radius:10px;
-    border:1px solid #e6e9ef;
-    outline:none;
-    font-size:14px;
-  }
-  select{
-    padding:10px 12px;
-    border-radius:10px;
-    border:1px solid #e6e9ef;
-    background:var(--glass);
-    font-size:14px;
-  }
-  table{
-    width:100%;
-    border-collapse:collapse;
-    margin-top:12px;
-    font-size:14px;
-  }
-  th, td{
-    text-align:left;
-    padding:10px 12px;
-    border-bottom:1px solid #f0f2f5;
-  }
-  th{ color:var(--muted); font-weight:600; font-size:13px; }
-  tr:hover td{ background: linear-gradient(90deg, rgba(11,132,255,0.04), rgba(255,255,255,0)); }
-  .pagination{ display:flex; gap:8px; margin-top:12px; align-items:center; }
-  .btn{
-    padding:8px 10px;
-    border-radius:8px;
-    border:1px solid #e6e9ef;
-    background:white;
-    cursor:pointer;
-  }
-  .small{ font-size:13px; color:var(--muted); }
+:root{--bg:#f5f7fa;--card:#fff;--muted:#6b7280;--accent:#0b84ff;--glass:rgba(255,255,255,0.7)}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial;background:linear-gradient(180deg,var(--bg),#fff);color:#0f172a}
+header{padding:18px;box-shadow:0 6px 18px rgba(15,23,42,0.06);position:sticky;top:0;background:transparent;z-index:10}
+.container{max-width:1100px;margin:18px auto;padding:0 18px}
+.card{background:var(--card);border-radius:12px;padding:16px;box-shadow:0 8px 24px rgba(11,20,40,0.06)}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:12px}
+h1{margin:0 0 8px 0;font-size:20px}
+.lead{margin:0 0 14px 0;color:var(--muted)}
+.controls{display:flex;gap:12px;align-items:center;margin-bottom:12px}
+input[type=search]{flex:1;padding:10px 12px;border-radius:10px;border:1px solid #e6e9ef;outline:none;font-size:14px}
+select,button{padding:10px 12px;border-radius:10px;border:1px solid #e6e9ef;background:var(--glass);font-size:14px;cursor:pointer}
+table{width:100%;border-collapse:collapse;margin-top:12px;font-size:14px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid #f0f2f5}
+th{color:var(--muted);font-weight:600;font-size:13px}
+tr:hover td{background:linear-gradient(90deg, rgba(11,132,255,0.04), rgba(255,255,255,0))}
+.pagination{display:flex;gap:8px;margin-top:12px;align-items:center}
+.btn{padding:8px 10px;border-radius:8px;border:1px solid #e6e9ef;background:white;cursor:pointer}
+.small{font-size:13px;color:var(--muted)}
+.admin-btn{background:var(--accent);color:white;border:none;padding:8px 12px;border-radius:10px;box-shadow:0 6px 18px rgba(11,132,255,0.12)}
+.modal-backdrop{position:fixed;inset:0;background:rgba(11,20,40,0.35);display:none;align-items:center;justify-content:center;z-index:50}
+.modal{width:420px;background:var(--card);border-radius:12px;padding:18px;box-shadow:0 12px 36px rgba(11,20,40,0.2)}
+.hidden{display:none}
+.admin-panel{margin-top:12px;display:flex;gap:8px;flex-direction:column}
+.notice{font-size:13px;color:var(--muted);margin-top:8px}
 </style>
 </head>
 <body>
 <header>
-  <div class="container">
-    <h1>Daftar Karyawan (Static API)</h1>
-    <p class="lead">Data dummy 400 karyawan — ambil dari <code>data.json</code>. Tema: light (macOS Monterey vibe).</p>
+  <div class="container topbar">
+    <div>
+      <h1>Daftar Karyawan (Static API)</h1>
+      <p class="lead">v2.0 — admin upload Excel & export JSON. Tema: Light (macOS Monterey).</p>
+    </div>
+    <div>
+      <button id="btnAdmin" class="admin-btn"><i class="fa fa-lock"></i> Admin Login</button>
+    </div>
   </div>
 </header>
-
 <main class="container">
   <div class="card">
     <div style="display:flex;justify-content:space-between;align-items:center;">
       <div style="flex:1;">
         <div class="controls">
           <input id="search" type="search" placeholder="Cari nama, departemen, unit kerja..." />
-          <select id="filter-dept">
-            <option value="">Semua Departemen</option>
-          </select>
+          <select id="filter-dept"><option value="">Semua Departemen</option></select>
           <select id="per-page">
             <option value="10">10 / halaman</option>
             <option value="25">25 / halaman</option>
@@ -106,23 +60,57 @@
         <div class="small">Total: <span id="total">0</span> karyawan</div>
       </div>
     </div>
-
     <div style="overflow:auto;">
       <table id="tbl">
         <thead>
-          <tr>
-            <th>#</th><th>Nama</th><th>Departemen</th><th>Unit Kerja</th><th>Jabatan</th><th>Tanggal Masuk</th>
-          </tr>
+          <tr><th>#</th><th>Nama</th><th>Departemen</th><th>Unit Kerja</th><th>Jabatan</th><th>Tanggal Masuk</th></tr>
         </thead>
         <tbody></tbody>
       </table>
     </div>
-
     <div class="pagination" id="pager"></div>
   </div>
 </main>
 
+<div id="modal" class="modal-backdrop" aria-hidden="true">
+  <div class="modal" role="dialog" aria-modal="true">
+    <div id="login-box">
+      <h3>Admin Login</h3>
+      <p class="small">Masukkan kode akses admin.</p>
+      <input id="admin-pass" type="password" placeholder="Kode akses" style="width:100%; padding:10px; border-radius:8px; border:1px solid #e6e9ef;" />
+      <div style="display:flex;gap:8px;margin-top:12px;">
+        <button id="login-ok" class="btn">Login</button>
+        <button id="login-cancel" class="btn">Batal</button>
+      </div>
+      <p class="notice"><strong>Catatan:</strong> Kode akses demo: <code>Kujang1234##</code></p>
+    </div>
+
+    <div id="admin-box" class="hidden">
+      <h3>Admin Panel</h3>
+      <div class="admin-panel">
+        <div>
+          <label><input type="radio" name="mode" value="replace" checked> Replace seluruh dataset</label>
+          <label style="margin-left:8px;"><input type="radio" name="mode" value="append"> Tambah ke dataset (append)</label>
+        </div>
+        <div style="display:flex; gap:8px; align-items:center;">
+          <input id="fileInput" type="file" accept=".xlsx,.xls,.csv" />
+          <button id="btnUpload" class="btn">Upload</button>
+        </div>
+        <div style="display:flex; gap:8px;">
+          <a id="download-template" class="btn" href="template_karyawan.xlsx" download>Download Format Kosong</a>
+          <button id="btnExport" class="btn">Export JSON</button>
+        </div>
+        <div><button id="btnLogout" class="btn">Logout</button></div>
+        <p class="notice">Upload file Excel akan diproses di browser dan disimpan ke <code>localStorage</code>. Gunakan Export JSON untuk menghasilkan file data.json baru yang dapat di-upload ke GitHub.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
 <script>
+const ADMIN_CODE = "Kujang1234##";
+const LOCAL_KEY = "karyawan_data_v2";
 const apiUrl = "./data.json";
 let data = [];
 let filtered = [];
@@ -130,26 +118,23 @@ let page = 1;
 let perPage = 10;
 
 async function loadData(){
+  const stored = localStorage.getItem(LOCAL_KEY);
+  if(stored){
+    try{ data = JSON.parse(stored); setupAfterLoad(); return; } catch(e){ console.warn('local parse error'); }
+  }
   try{
     const res = await fetch(apiUrl);
     data = await res.json();
-    document.getElementById('total').textContent = data.length;
-    populateDeptFilter();
-    applyFilters();
-  }catch(e){
-    console.error(e);
-    alert("Gagal memuat data.json — pastikan file ada di repo.");
-  }
+    setupAfterLoad();
+  }catch(e){ console.error(e); alert('Gagal memuat data.json'); }
 }
 
+function setupAfterLoad(){ document.getElementById('total').textContent = data.length; populateDeptFilter(); applyFilters(); }
+
 function populateDeptFilter(){
-  const sel = document.getElementById('filter-dept');
+  const sel = document.getElementById('filter-dept'); sel.innerHTML = '<option value="">Semua Departemen</option>';
   const depts = Array.from(new Set(data.map(d=>d.departemen))).sort();
-  depts.forEach(d=>{
-    const o = document.createElement('option');
-    o.value = d; o.textContent = d;
-    sel.appendChild(o);
-  });
+  depts.forEach(d=>{ const o=document.createElement('option'); o.value=d; o.textContent=d; sel.appendChild(o); });
 }
 
 function applyFilters(){
@@ -167,18 +152,12 @@ function applyFilters(){
 }
 
 function renderTable(){
-  const tbody = document.querySelector('#tbl tbody');
-  tbody.innerHTML = '';
+  const tbody = document.querySelector('#tbl tbody'); tbody.innerHTML = '';
   const start = (page-1)*perPage;
   const pageItems = filtered.slice(start, start+perPage);
-  pageItems.forEach((r, idx)=>{
-    const tr = document.createElement('tr');
-    tr.innerHTML = `<td>${r.id}</td>
-                    <td>${r.nama}</td>
-                    <td>${r.departemen}</td>
-                    <td>${r.unit_kerja}</td>
-                    <td>${r.jabatan}</td>
-                    <td>${r.tanggal_masuk}</td>`;
+  pageItems.forEach(r=>{
+    const tr=document.createElement('tr');
+    tr.innerHTML = `<td>${r.id}</td><td>${r.nama}</td><td>${r.departemen}</td><td>${r.unit_kerja}</td><td>${r.jabatan}</td><td>${r.tanggal_masuk}</td>`;
     tbody.appendChild(tr);
   });
   document.getElementById('total').textContent = filtered.length;
@@ -186,33 +165,72 @@ function renderTable(){
 }
 
 function renderPager(){
-  const pager = document.getElementById('pager');
-  pager.innerHTML = '';
-  const totalPages = Math.max(1, Math.ceil(filtered.length / perPage));
-  const createBtn = (label, cb, disabled=false) => {
-    const b = document.createElement('button');
-    b.textContent = label; b.className='btn';
-    if(disabled) b.disabled = true;
-    b.onclick = cb;
-    return b;
-  };
+  const pager=document.getElementById('pager'); pager.innerHTML='';
+  const totalPages = Math.max(1, Math.ceil(filtered.length/perPage));
+  const createBtn=(label,cb,disabled=false)=>{ const b=document.createElement('button'); b.textContent=label; b.className='btn'; if(disabled) b.disabled=true; b.onclick=cb; return b; };
   pager.appendChild(createBtn('« Prev', ()=>{ if(page>1){ page--; renderTable(); } }, page===1));
-  // show up to 7 page buttons around current
-  const start = Math.max(1, page-3);
-  const end = Math.min(totalPages, page+3);
-  for(let p=start;p<=end;p++){
-    const b = createBtn(p, ()=>{ page=p; renderTable(); }, false);
-    if(p===page){ b.style.fontWeight='700'; b.style.borderColor='var(--accent)'; }
-    pager.appendChild(b);
-  }
+  const start = Math.max(1,page-3); const end = Math.min(totalPages,page+3);
+  for(let p=start;p<=end;p++){ const b=createBtn(p,(()=>{ const pp=p; return ()=>{ page=pp; renderTable(); }; })()); if(p===page){ b.style.fontWeight='700'; b.style.borderColor='var(--accent)'; } pager.appendChild(b); }
   pager.appendChild(createBtn('Next »', ()=>{ if(page<totalPages){ page++; renderTable(); } }, page===totalPages));
 }
+
+/* Admin modal */
+const modal = document.getElementById('modal'); const btnAdmin = document.getElementById('btnAdmin');
+const loginBox = document.getElementById('login-box'); const adminBox = document.getElementById('admin-box');
+btnAdmin.addEventListener('click', ()=> openModal()); document.getElementById('login-cancel').addEventListener('click', ()=> closeModal());
+function openModal(){ modal.style.display='flex'; modal.setAttribute('aria-hidden','false'); loginBox.classList.remove('hidden'); adminBox.classList.add('hidden'); }
+function closeModal(){ modal.style.display='none'; modal.setAttribute('aria-hidden','true'); document.getElementById('admin-pass').value=''; }
+
+document.getElementById('login-ok').addEventListener('click', ()=>{ const v=document.getElementById('admin-pass').value; if(v===ADMIN_CODE){ loginBox.classList.add('hidden'); adminBox.classList.remove('hidden'); } else { alert('Kode akses salah.'); } });
+document.getElementById('btnLogout').addEventListener('click', ()=>{ closeModal(); });
+
+/* Upload with SheetJS */
+document.getElementById('btnUpload').addEventListener('click', ()=> {
+  const f = document.getElementById('fileInput').files[0];
+  if(!f){ alert('Pilih file Excel terlebih dahulu.'); return; }
+  const reader = new FileReader();
+  reader.onload = (e)=> {
+    const dataArr = new Uint8Array(e.target.result);
+    const wb = XLSX.read(dataArr, {type:'array'});
+    const first = wb.SheetNames[0];
+    const ws = wb.Sheets[first];
+    const json = XLSX.utils.sheet_to_json(ws, {defval: ""});
+    if(!Array.isArray(json) || json.length===0){ alert('File kosong atau format tidak terbaca.'); return; }
+    const normalized = json.map((row, idx)=>({
+      id: row.ID || row.Id || row.id || (row.No || row.no) || (idx+1),
+      nama: row.Nama || row.nama || row.Name || row.name || "",
+      departemen: row.Departemen || row.departemen || row.Department || "",
+      unit_kerja: row["Unit Kerja"] || row.unit_kerja || row.Unit || row.unit || "",
+      jabatan: row.Jabatan || row.jabatan || row.Position || "",
+      tanggal_masuk: row["Tanggal Masuk"] || row.tanggal_masuk || row.Date || ""
+    }));
+    const mode = document.querySelector('input[name="mode"]:checked').value;
+    if(mode==='replace'){ data = normalized.map((r,i)=> ({...r, id: (i+1)})); } else {
+      const maxId = data.reduce((m,it)=> Math.max(m, Number(it.id||0)), 0);
+      const appended = normalized.map((r,i)=> ({...r, id: maxId + i + 1}));
+      data = data.concat(appended);
+    }
+    localStorage.setItem(LOCAL_KEY, JSON.stringify(data));
+    populateDeptFilter(); applyFilters();
+    alert('Upload berhasil dan disimpan di localStorage. Gunakan Export JSON untuk menghasilkan file data.json baru.');
+  };
+  reader.onerror = ()=> alert('Gagal membaca file.');
+  reader.readAsArrayBuffer(f);
+});
+
+/* Export JSON */
+document.getElementById('btnExport').addEventListener('click', ()=> {
+  if(!data || !Array.isArray(data)){ alert('Tidak ada data untuk diekspor.'); return; }
+  const blob = new Blob([JSON.stringify(data, null, 2)], {type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); a.href = url; a.download = 'data.json'; document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
+});
 
 document.getElementById('search').addEventListener('input', ()=> applyFilters());
 document.getElementById('filter-dept').addEventListener('change', ()=> applyFilters());
 document.getElementById('per-page').addEventListener('change', ()=> applyFilters());
+modal.addEventListener('click', (e)=>{ if(e.target===modal) closeModal(); });
 
 loadData();
 </script>
-</body>
-</html>
+</body></html>
