@@ -1,3202 +1,2442 @@
 [
   {
     "id": 1,
-    "nama": "Intan Santoso",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-04-19"
+    "nama": "DENA FIFA DWI SETYA",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN PBJP",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 2,
-    "nama": "Andi Pratama",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-03-21"
+    "nama": "SATIVA",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN PBJP",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 3,
-    "nama": "Rika Puspita",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2022-03-23"
+    "nama": "AMAN JAELANI",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN PBJP",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 4,
-    "nama": "Dila Ramadhan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2013-07-31"
+    "nama": "DZIKRULLAH WILDAN NUR",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN PBJP",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 5,
-    "nama": "Riko Sutanto",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-07-10"
+    "nama": "NUGRAHA RAHMAT",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN PBJP",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 6,
-    "nama": "Hendra Kurniawan",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2020-04-21"
+    "nama": "RIZA PARAMAYUDHA",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN PBJP",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 7,
-    "nama": "Andi Zainal Wijaya",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-02-06"
+    "nama": "WISNU SUHOKO",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN PBJP",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 8,
-    "nama": "Robby Edo Kurnia",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-10-31"
+    "nama": "FAISAL AKBAR NUGRAHA",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR RUTIN",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 9,
-    "nama": "Putri Sukma",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2018-07-11"
+    "nama": "HADI HARTADI",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR RUTIN",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 10,
-    "nama": "Sigit Suryadi",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-09-13"
+    "nama": "NIBRAS ABGARINA A",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR RUTIN",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 11,
-    "nama": "Sigit Fajar Aulia",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-06-29"
+    "nama": "ALFIAN SETYAWAN",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR RUTIN",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 12,
-    "nama": "Luthfi Suryadi",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2011-04-04"
+    "nama": "FERRY EFENDI",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR RUTIN",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 13,
-    "nama": "Putri Mulyadi",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-09-25"
+    "nama": "HERIYANTO",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR RUTIN",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 14,
-    "nama": "Edo Kurnia",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-06-02"
+    "nama": "IZA MAQBULLAH",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR RUTIN",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 15,
-    "nama": "Sinta Saputra",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-11-23"
+    "nama": "SOFIYAN",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR RUTIN",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 16,
-    "nama": "Nadia Rian Rahma",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2013-02-07"
+    "nama": "THOFANI HAIDIR",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR RUTIN",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 17,
-    "nama": "Rika Anggraini",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2013-08-03"
+    "nama": "TOMMY VILLANO",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR RUTIN",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 18,
-    "nama": "Riko Puspita",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2021-11-13"
+    "nama": "ADMIN ABSENSI",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 19,
-    "nama": "Sari Agus Utami",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2015-12-26"
+    "nama": "ADMIN ABSENSI",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 20,
-    "nama": "Wahyu Wijaya",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-11-28"
+    "nama": "HENDRA FEBRIANSYAH",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 21,
-    "nama": "Rika Sukma",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-05-01"
+    "nama": "MUHAMMAD IQBAL",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 22,
-    "nama": "Rika Puspita",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-11-23"
+    "nama": "PENGAWAS",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 23,
-    "nama": "Agus Puspita",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2016-11-24"
+    "nama": "PENGAWAS",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 24,
-    "nama": "Rizki Kusuma",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-11-25"
+    "nama": "SANA",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 25,
-    "nama": "Fajar Sukma",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2022-05-01"
+    "nama": "SEPTIAN HADI",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 26,
-    "nama": "Luthfi Yuliana",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2022-02-04"
+    "nama": "SUMINTA",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 27,
-    "nama": "Nur Aulia",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2020-02-16"
+    "nama": "TOOLS MAN",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 28,
-    "nama": "Intan Ramadhan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-03-01"
+    "nama": "ADHI MAULANA",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 29,
-    "nama": "Nadia Ramadhan",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2010-09-15"
+    "nama": "HENA HERIYANA",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 30,
-    "nama": "Wahyu Pratama",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-02-04"
+    "nama": "MOCHAMAD LUTHFI SANTOSA",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 31,
-    "nama": "Joko Edo Prasetyo",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-08-10"
+    "nama": "SZALFA",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 32,
-    "nama": "Dila Setiawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-06-22"
+    "nama": "AJIE NURHASIM AIM",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 33,
-    "nama": "Eka Maulana",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-08-11"
+    "nama": "ASEP ANDI SUPRIADI",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 34,
-    "nama": "Hendra Ramadhan",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-02-12"
+    "nama": "DANANG ARIEF S.",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 35,
-    "nama": "Sigit Suryadi",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2022-05-06"
+    "nama": "DENI RAHMAN",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 36,
-    "nama": "Hendra Kusuma",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2015-04-21"
+    "nama": "DHOHRI RIDWANI",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 37,
-    "nama": "Luthfi Rahma",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2013-09-10"
+    "nama": "IRFAN MISBAHUDIN",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 38,
-    "nama": "Zainal Sari Santoso",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-06-19"
+    "nama": "MOCHAMAD DWI RIANTO",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 39,
-    "nama": "Bayu Saputra",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-02-28"
+    "nama": "VINDY SETO UTOMO",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "BAGIAN RENDALHAR TA",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 40,
-    "nama": "Eka Prasetyo",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-11-29"
+    "nama": "MUHAMMAD IKHSAN ANSHORI",
+    "departemen": "DEPT. PERENCANAAN PEMELIHARAAN",
+    "unit_kerja": "Dept. Perencanaan Pemeliharaan",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 41,
-    "nama": "Luthfi Gita Kusuma",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-02-22"
+    "nama": "Akim",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 42,
-    "nama": "Rizki Putra",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2010-11-22"
+    "nama": "Anwar",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 43,
-    "nama": "Robby Pratama",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-11-07"
+    "nama": "Jajat Sujatnika",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 44,
-    "nama": "Oka Maulana",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-01-24"
+    "nama": "M Arifin",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 45,
-    "nama": "Umi Suryadi",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-08-18"
+    "nama": "Nurdin",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 46,
-    "nama": "Hendra Pratama",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-10-30"
+    "nama": "RIGGER 1",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 47,
-    "nama": "Fajar Kurnia",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-03-09"
+    "nama": "RIGGER 10",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 48,
-    "nama": "Umi Dian Puspita",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2016-09-18"
+    "nama": "RIGGER 11",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 49,
-    "nama": "Hendra Sari Sari",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2013-06-27"
+    "nama": "RIGGER 12",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 50,
-    "nama": "Sigit Wibowo",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2015-12-03"
+    "nama": "RIGGER 13",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 51,
-    "nama": "Rika Anggraini",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2016-03-16"
+    "nama": "RIGGER 14",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 52,
-    "nama": "Dewi Santoso",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2013-08-16"
+    "nama": "RIGGER 15",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 53,
-    "nama": "Indra Utami",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-07-01"
+    "nama": "RIGGER 16",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 54,
-    "nama": "Kartika Utami",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-08-22"
+    "nama": "RIGGER 17",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 55,
-    "nama": "Joko Kusuma",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-08-07"
+    "nama": "RIGGER 18",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 2",
+    "tanggal_masuk": ""
   },
   {
     "id": 56,
-    "nama": "Hendra Kurniawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2015-04-24"
+    "nama": "RIGGER 19",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 2",
+    "tanggal_masuk": ""
   },
   {
     "id": 57,
-    "nama": "Luthfi Gunawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-06-14"
+    "nama": "RIGGER 2",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 58,
-    "nama": "Dila Gunawan",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-09-23"
+    "nama": "RIGGER 20",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 2",
+    "tanggal_masuk": ""
   },
   {
     "id": 59,
-    "nama": "Hendra Farah Putra",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2020-04-28"
+    "nama": "RIGGER 21",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 2",
+    "tanggal_masuk": ""
   },
   {
     "id": 60,
-    "nama": "Xaverius Wibowo",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-05-02"
+    "nama": "RIGGER 22",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 2",
+    "tanggal_masuk": ""
   },
   {
     "id": 61,
-    "nama": "Rian Sutanto",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-06-05"
+    "nama": "RIGGER 23",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 2",
+    "tanggal_masuk": ""
   },
   {
     "id": 62,
-    "nama": "Rian Andi Maulana",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-11-10"
+    "nama": "RIGGER 24",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 2",
+    "tanggal_masuk": ""
   },
   {
     "id": 63,
-    "nama": "Maya Sari Firmansyah",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-10-02"
+    "nama": "RIGGER 25",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 2",
+    "tanggal_masuk": ""
   },
   {
     "id": 64,
-    "nama": "Vina Rahma",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-12-07"
+    "nama": "RIGGER 26",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 3",
+    "tanggal_masuk": ""
   },
   {
     "id": 65,
-    "nama": "Nur Yuliana",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-01-28"
+    "nama": "RIGGER 27",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 3",
+    "tanggal_masuk": ""
   },
   {
     "id": 66,
-    "nama": "Nur Kurniawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-10-17"
+    "nama": "RIGGER 28",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 3",
+    "tanggal_masuk": ""
   },
   {
     "id": 67,
-    "nama": "Umi Fadli",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2016-08-19"
+    "nama": "RIGGER 29",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 3",
+    "tanggal_masuk": ""
   },
   {
     "id": 68,
-    "nama": "Lina Saputra",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2013-11-26"
+    "nama": "RIGGER 3",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 69,
-    "nama": "Robby Firmansyah",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-09-18"
+    "nama": "RIGGER 30",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 3",
+    "tanggal_masuk": ""
   },
   {
     "id": 70,
-    "nama": "Riko Gunawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-02-25"
+    "nama": "RIGGER 31",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 3",
+    "tanggal_masuk": ""
   },
   {
     "id": 71,
-    "nama": "Oka Fadli",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-07-24"
+    "nama": "RIGGER 32",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 3",
+    "tanggal_masuk": ""
   },
   {
     "id": 72,
-    "nama": "Robby Sutanto",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-06-20"
+    "nama": "RIGGER 33",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "MEKANIK 3",
+    "tanggal_masuk": ""
   },
   {
     "id": 73,
-    "nama": "Kartika Santoso",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2011-08-20"
+    "nama": "RIGGER 34",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "MEKANIK 3",
+    "tanggal_masuk": ""
   },
   {
     "id": 74,
-    "nama": "Sinta Edo Rahma",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2021-02-01"
+    "nama": "RIGGER 35",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "MEKANIK 3",
+    "tanggal_masuk": ""
   },
   {
     "id": 75,
-    "nama": "Rian Ramadhan",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2014-11-28"
+    "nama": "RIGGER 4",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 76,
-    "nama": "Maya Dian Gunawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-09-21"
+    "nama": "RIGGER 5",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 77,
-    "nama": "Sinta Saputra",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-12-05"
+    "nama": "RIGGER 6",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 78,
-    "nama": "Robby Mulyadi",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2022-04-16"
+    "nama": "RIGGER 7",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 79,
-    "nama": "Indra Kurnia",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-07-19"
+    "nama": "RIGGER 8",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 80,
-    "nama": "Sigit Sukma",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-11-13"
+    "nama": "RIGGER 9",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "RIGGER 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 81,
-    "nama": "Fajar Aulia",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-02-11"
+    "nama": "Agus Mulyana",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 82,
-    "nama": "Gita Saputra",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-10-19"
+    "nama": "Ahmad Jaelani",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 83,
-    "nama": "Fajar Rahma",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-08-22"
+    "nama": "Andika Prasetiya",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 84,
-    "nama": "Dila Nadia Putra",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2010-02-18"
+    "nama": "Dadang K",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 85,
-    "nama": "Xaverius Wibowo",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2022-04-01"
+    "nama": "Dawud",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 86,
-    "nama": "Ilham Kurnia",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2010-08-26"
+    "nama": "Hendro",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 87,
-    "nama": "Zainal Sutanto",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-06-25"
+    "nama": "Herdiansyah",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 88,
-    "nama": "Joko Puspita",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2010-08-11"
+    "nama": "Herlambang Rido Pratomo",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 89,
-    "nama": "Gita Hendrawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-07-03"
+    "nama": "Karto",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 90,
-    "nama": "Vina Setiawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-06-16"
+    "nama": "Lestari",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 91,
-    "nama": "Sari Mulyadi",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-11-06"
+    "nama": "M Chahyo",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 92,
-    "nama": "Putri Hendrawan",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2014-06-22"
+    "nama": "Ricky PG",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "Jr Engineer",
+    "tanggal_masuk": ""
   },
   {
     "id": 93,
-    "nama": "Budi Puspita",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2022-08-26"
+    "nama": "Ridwan Maulana",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 94,
-    "nama": "Oka Suryadi",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2012-07-27"
+    "nama": "Uned Junaedi",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 95,
-    "nama": "Luthfi Sari",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2022-11-30"
+    "nama": "Uum Gumilar",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 96,
-    "nama": "Zainal Nur Putra",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2024-01-26"
+    "nama": "Waginanto",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 97,
-    "nama": "Rizki Wijaya",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2012-09-18"
+    "nama": "Wahyu Iskandar",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 98,
-    "nama": "Edo Gunawan",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2011-07-19"
+    "nama": "Aga Targana",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "Jr Engineer",
+    "tanggal_masuk": ""
   },
   {
     "id": 99,
-    "nama": "Rika Hendrawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-02-15"
+    "nama": "Agus Hermawan",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "Jr Engineer",
+    "tanggal_masuk": ""
   },
   {
     "id": 100,
-    "nama": "Sinta Aulia",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-08-03"
+    "nama": "Asep Nana",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "AVP",
+    "tanggal_masuk": ""
   },
   {
     "id": 101,
-    "nama": "Sigit Puspita",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-04-16"
+    "nama": "Hasan Basri",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "Engineer",
+    "tanggal_masuk": ""
   },
   {
     "id": 102,
-    "nama": "Sigit Gita Sutanto",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-06-03"
+    "nama": "Muhidin",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian A2B",
+    "jabatan": "Jr Engineer",
+    "tanggal_masuk": ""
   },
   {
     "id": 103,
-    "nama": "Edo Puspita",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-04-16"
+    "nama": "Teknisi 2 Instrumen",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "Teknisi 2 Instrumen",
+    "tanggal_masuk": ""
   },
   {
     "id": 104,
-    "nama": "Maya Anggraini",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-05-16"
+    "nama": "Teknisi 2 Listrik",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "Teknisi 2 Listrik",
+    "tanggal_masuk": ""
   },
   {
     "id": 105,
-    "nama": "Sigit Utami",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-02-12"
+    "nama": "Teknisi 2 Listrik",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "Teknisi 2 Listrik",
+    "tanggal_masuk": ""
   },
   {
     "id": 106,
-    "nama": "Bayu Utami",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2020-01-20"
+    "nama": "Teknisi 2 Listrik",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "Teknisi 2 Listrik",
+    "tanggal_masuk": ""
   },
   {
     "id": 107,
-    "nama": "Budi Pratama",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-11-22"
+    "nama": "Teknisi 2 Listrik",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "Teknisi 2 Listrik",
+    "tanggal_masuk": ""
   },
   {
     "id": 108,
-    "nama": "Nadia Kurniawan",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-05-06"
+    "nama": "Teknisi 2 Listrik",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "Teknisi 2 Listrik",
+    "tanggal_masuk": ""
   },
   {
     "id": 109,
-    "nama": "Wahyu Kurniawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-09-15"
+    "nama": "ARYA TANSA TRISNA",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 110,
-    "nama": "Nur Sutanto",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-11-08"
+    "nama": "ARYO TRI WIJANARKO",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 111,
-    "nama": "Farah Yuliana",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-04-03"
+    "nama": "BUDHI NURDIN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 112,
-    "nama": "Nur Wibowo",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-12-24"
+    "nama": "DONI IRAWANTO",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 113,
-    "nama": "Joko Yuliana",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-10-31"
+    "nama": "FARID FIRDAUS",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 114,
-    "nama": "Bayu Edo Wijaya",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-08-23"
+    "nama": "MUHAMMAD KAHFI",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 115,
-    "nama": "Maya Sari",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2018-12-27"
+    "nama": "PERI SETIAWAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 116,
-    "nama": "Bayu Pratama",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-08-16"
+    "nama": "PUTRA RAMADAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 117,
-    "nama": "Umi Intan Pratama",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2023-11-15"
+    "nama": "RIO DWI PRASETYO",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 118,
-    "nama": "Putri Sukma",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-03-15"
+    "nama": "YUDI KURNIA",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 119,
-    "nama": "Riko Wibowo",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2012-03-23"
+    "nama": "INDRA PERMANA",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 120,
-    "nama": "Oka Hendrawan",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-05-19"
+    "nama": "JAMAL",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 121,
-    "nama": "Fajar Haryanto",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2016-07-13"
+    "nama": "WAWAN SETIAWAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 122,
-    "nama": "Dewi Ramadhan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2011-08-07"
+    "nama": "ADANG SURYAMAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 123,
-    "nama": "Putri Iskandar",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2014-06-09"
+    "nama": "ANHAR BAEHAQI",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 124,
-    "nama": "Riko Wijaya",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2011-08-08"
+    "nama": "ARIES PRASETYO N",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 125,
-    "nama": "Eka Haryanto",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2016-06-22"
+    "nama": "BOBBY FARIZ ALFARIZY",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 126,
-    "nama": "Indra Wijaya",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2016-02-09"
+    "nama": "BUDI RIANTO",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 127,
-    "nama": "Rika Utami",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-09-10"
+    "nama": "DEDE RIYAN ARSYAD",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 128,
-    "nama": "Vina Puspita",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2022-11-26"
+    "nama": "DHONI FITRA TY",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 129,
-    "nama": "Nadia Sari",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2013-12-06"
+    "nama": "ERWIN PRIATNA S",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 130,
-    "nama": "Farah Fadli",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2019-10-11"
+    "nama": "PANDU ASHARI",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 131,
-    "nama": "Bayu Pratama",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-05-06"
+    "nama": "PRIYA ADISUASANA",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 132,
-    "nama": "Luthfi Sutanto",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2018-12-25"
+    "nama": "ROBANDI",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 133,
-    "nama": "Lina Kusuma",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-01-25"
+    "nama": "SADIA",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 134,
-    "nama": "Rika Andi Mulyadi",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-08-18"
+    "nama": "SHILMY AULIA M M",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 135,
-    "nama": "Yuni Puspita",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-04-27"
+    "nama": "YUDO UTOMO",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Har Listrik",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 136,
-    "nama": "Joko Iskandar",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-02-18"
+    "nama": "RADITYO DWI CAHYO",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "INSTRUMEN COMPRESSOR VIBRATION MONITOR",
+    "tanggal_masuk": ""
   },
   {
     "id": 137,
-    "nama": "Ilham Gunawan",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-05-22"
+    "nama": "ZAKI YUSA FARDANI",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "INSTRUMEN COMPRESSOR VIBRATION MONITOR",
+    "tanggal_masuk": ""
   },
   {
     "id": 138,
-    "nama": "Dila Pratama",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2024-07-12"
+    "nama": "ASEP IRWAN , ST",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "FIELD INSTRUMEN (MAINTANANCE, KALIBRASI &TROUBLESHOTTING)",
+    "tanggal_masuk": ""
   },
   {
     "id": 139,
-    "nama": "Kartika Titi Anggraini",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-10-27"
+    "nama": "ERWIN ROHMAT EFENDI",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "FIELD INSTRUMEN (MAINTANANCE, KALIBRASI &TROUBLESHOTTING)",
+    "tanggal_masuk": ""
   },
   {
     "id": 140,
-    "nama": "Farah Ramadhan",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-06-12"
+    "nama": "FARID HAMBALIBURHAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "FIELD INSTRUMEN (MAINTANANCE, KALIBRASI &TROUBLESHOTTING)",
+    "tanggal_masuk": ""
   },
   {
     "id": 141,
-    "nama": "Rika Fajar Prasetyo",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-05-22"
+    "nama": "SANDY ROHENDI",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "FIELD INSTRUMEN (MAINTANANCE, KALIBRASI &TROUBLESHOTTING)",
+    "tanggal_masuk": ""
   },
   {
     "id": 142,
-    "nama": "Sigit Mulyadi",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-10-20"
+    "nama": "WILLY RIZKI GUSWIANDA",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "FIELD INSTRUMEN (MAINTANANCE, KALIBRASI &TROUBLESHOTTING)",
+    "tanggal_masuk": ""
   },
   {
     "id": 143,
-    "nama": "Bayu Wahyuni",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-05-19"
+    "nama": "DAMAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "PHL",
+    "tanggal_masuk": ""
   },
   {
     "id": 144,
-    "nama": "Andi Putra",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2015-05-11"
+    "nama": "DEDE SUPRIYADI",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "PHL",
+    "tanggal_masuk": ""
   },
   {
     "id": 145,
-    "nama": "Edo Putra",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-08-10"
+    "nama": "HAFID NURDIN AKHBAR",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "PHL",
+    "tanggal_masuk": ""
   },
   {
     "id": 146,
-    "nama": "Zainal Kartika Putra",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-03-28"
+    "nama": "IPIN SYARIPUDIN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 147,
-    "nama": "Wahyu Wahyuni",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-04-01"
+    "nama": "KOSWARA",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "PHL",
+    "tanggal_masuk": ""
   },
   {
     "id": 148,
-    "nama": "Agus Prasetyo",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-12-12"
+    "nama": "LUTHFI SHAFIYYU RAHMAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "PHL",
+    "tanggal_masuk": ""
   },
   {
     "id": 149,
-    "nama": "Wahyu Puspita",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2021-12-20"
+    "nama": "NABIL FATHURROHMAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 150,
-    "nama": "Zainal Sari",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-07-15"
+    "nama": "RANGGA SURYA DARMA",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 151,
-    "nama": "Rizki Hendrawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2019-09-26"
+    "nama": "SAMSUDIN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "PHL",
+    "tanggal_masuk": ""
   },
   {
     "id": 152,
-    "nama": "Hendra Sukma",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2016-09-19"
+    "nama": "REYNALDI MUHAMMAD FAJAR RAMADHAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Jr, Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 153,
-    "nama": "Budi Kusuma",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-08-30"
+    "nama": "ABDUL ROJAK",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Sr Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 154,
-    "nama": "Kartika Ramadhan",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2013-10-24"
+    "nama": "AGUS MUHLAS DIANSYAH",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Sr Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 155,
-    "nama": "Maya Pratama",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2021-02-28"
+    "nama": "ARIF ERDIANTO",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Sr Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 156,
-    "nama": "Nadia Saputra",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2010-03-18"
+    "nama": "ASEP ROHIMAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 157,
-    "nama": "Sinta Kurnia",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-10-01"
+    "nama": "BAGUS SUHARA",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Jr Engineer",
+    "tanggal_masuk": ""
   },
   {
     "id": 158,
-    "nama": "Nadia Wibowo",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2016-10-10"
+    "nama": "DEDI ARIFIN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Sr Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 159,
-    "nama": "Nur Hendra Putra",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-11-22"
+    "nama": "EGI ANDRIAN NUGRAHA",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Jr Engineer",
+    "tanggal_masuk": ""
   },
   {
     "id": 160,
-    "nama": "Titi Aulia",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-05-20"
+    "nama": "ENDIN KOMARUDIN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "AVP",
+    "tanggal_masuk": ""
   },
   {
     "id": 161,
-    "nama": "Eka Iskandar",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2015-03-01"
+    "nama": "FAJAR TRI WINARKO",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Sr Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 162,
-    "nama": "Ilham Gunawan",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-10-14"
+    "nama": "FEBRY DIAN SANTOSO",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Jr Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 163,
-    "nama": "Joko Hendrawan",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2010-10-01"
+    "nama": "GUSTIANA MULYANSYAH",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 164,
-    "nama": "Nadia Kurniawan",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-04-27"
+    "nama": "HANDY MUHAMMAD OKTA ",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 165,
-    "nama": "Maya Setiawan",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2016-02-11"
+    "nama": "IPAN APIAN MUHTAROM",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Sr Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 166,
-    "nama": "Luthfi Farah Yuliana",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2012-08-01"
+    "nama": "MUH FATHNAN SYAFII",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Engineer",
+    "tanggal_masuk": ""
   },
   {
     "id": 167,
-    "nama": "Sinta Sari",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2018-11-30"
+    "nama": "RAKA GUMILANG LAKSANA",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Technician",
+    "tanggal_masuk": ""
   },
   {
     "id": 168,
-    "nama": "Lina Kurniawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-10-09"
+    "nama": "WIKO BUDI SETIAWAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Jr Engineer",
+    "tanggal_masuk": ""
   },
   {
     "id": 169,
-    "nama": "Sinta Kurniawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-04-27"
+    "nama": "YOSEP SUPRATMAN",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian Instrumen",
+    "jabatan": "Jr Engineer",
+    "tanggal_masuk": ""
   },
   {
     "id": 170,
-    "nama": "Yuni Wijaya",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2022-08-05"
+    "nama": "Akmal Ramadhana",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Control Valve",
+    "tanggal_masuk": ""
   },
   {
     "id": 171,
-    "nama": "Vina Iskandar",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2025-09-22"
+    "nama": "Amirrudin",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Kalibrasi Transmitter",
+    "tanggal_masuk": ""
   },
   {
     "id": 172,
-    "nama": "Umi Hendrawan",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2016-10-29"
+    "nama": "Dedi Kurniawan",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Control Valve",
+    "tanggal_masuk": ""
   },
   {
     "id": 173,
-    "nama": "Bayu Wijaya",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-04-28"
+    "nama": "Elang Adi Saputra",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Control Valve",
+    "tanggal_masuk": ""
   },
   {
     "id": 174,
-    "nama": "Andi Rahma",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2020-12-22"
+    "nama": "Munzil",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Governor",
+    "tanggal_masuk": ""
   },
   {
     "id": 175,
-    "nama": "Robby Sigit Rahma",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-12-12"
+    "nama": "Anap Setiawan",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Control Valve",
+    "tanggal_masuk": ""
   },
   {
     "id": 176,
-    "nama": "Indra Sari",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2018-03-29"
+    "nama": "Anta Sopiyan",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Control Valve",
+    "tanggal_masuk": ""
   },
   {
     "id": 177,
-    "nama": "Andi Xaverius Kurnia",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-09-27"
+    "nama": "Atang",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Control Valve",
+    "tanggal_masuk": ""
   },
   {
     "id": 178,
-    "nama": "Sinta Pratama",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-06-25"
+    "nama": "Heru Istiansyah",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Governor",
+    "tanggal_masuk": ""
   },
   {
     "id": 179,
-    "nama": "Rizki Saputra",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2022-06-07"
+    "nama": "Juhari",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Control Valve",
+    "tanggal_masuk": ""
   },
   {
     "id": 180,
-    "nama": "Oka Firmansyah",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2023-05-15"
+    "nama": "Muhammad Azam Zulfan",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Bengkel Listrik",
+    "tanggal_masuk": ""
   },
   {
     "id": 181,
-    "nama": "Agus Kartika Yuliana",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2013-11-30"
+    "nama": "Rahman",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Control Valve",
+    "tanggal_masuk": ""
   },
   {
     "id": 182,
-    "nama": "Intan Joko Maulana",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2015-05-04"
+    "nama": "Roby Fadilah Saputra",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Bengkel Listrik",
+    "tanggal_masuk": ""
   },
   {
     "id": 183,
-    "nama": "Nadia Sutanto",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-06-11"
+    "nama": "Wanadi",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Bagian WLI",
+    "jabatan": "Kalibrasi Transmitter",
+    "tanggal_masuk": ""
   },
   {
     "id": 184,
-    "nama": "Dian Wijaya",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2021-07-06"
+    "nama": "YADI MULYADI",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Dept. PLI&AB",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 185,
-    "nama": "Nadia Wijaya",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-10-11"
+    "nama": "NUGRAHA AGUNG WIBOWO",
+    "departemen": "PLI&AB",
+    "unit_kerja": "Dept. PLI&AB",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 186,
-    "nama": "Dian Wibowo",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2019-01-04"
+    "nama": "ANTA WIJAYA",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "PKWT",
+    "tanggal_masuk": ""
   },
   {
     "id": 187,
-    "nama": "Riko Maulana",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2017-03-23"
+    "nama": "GHOZY ANJAB",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "PKWT",
+    "tanggal_masuk": ""
   },
   {
     "id": 188,
-    "nama": "Ilham Saputra",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2022-04-20"
+    "nama": "EMIN",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "ADMINISTRASI",
+    "tanggal_masuk": ""
   },
   {
     "id": 189,
-    "nama": "Vina Dian Putra",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-08-26"
+    "nama": "AAM MULYANA",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 190,
-    "nama": "Hendra Gunawan",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2019-08-25"
+    "nama": "NANANG",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "ADMINISTRASI",
+    "tanggal_masuk": ""
   },
   {
     "id": 191,
-    "nama": "Indra Kurnia",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-02-18"
+    "nama": "ABDUL KARIM",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 192,
-    "nama": "Vina Rahma",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2025-05-28"
+    "nama": "ADIH SUHENDAR",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 193,
-    "nama": "Farah Pratama",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-05-11"
+    "nama": "AGUS FENIKA SAPUTRA",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 194,
-    "nama": "Joko Utami",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-09-28"
+    "nama": "AGUS JOKO SANTOSO",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 195,
-    "nama": "Dila Riko Kurniawan",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2017-11-20"
+    "nama": "ANTO JULIANTO",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 196,
-    "nama": "Hendra Firmansyah",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-06-05"
+    "nama": "ARIF MUALAM",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 197,
-    "nama": "Xaverius Wahyuni",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-08-17"
+    "nama": "ASEP EKO WIBOWO",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 198,
-    "nama": "Lina Sukma",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2010-08-04"
+    "nama": "CAHYADI",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 199,
-    "nama": "Ilham Iskandar",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-10-05"
+    "nama": "DADAN RAMDAN",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "FORMEN",
+    "tanggal_masuk": ""
   },
   {
     "id": 200,
-    "nama": "Umi Iskandar",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2022-09-14"
+    "nama": "DEDE ANWAR SIDIK ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "J AVP",
+    "tanggal_masuk": ""
   },
   {
     "id": 201,
-    "nama": "Rian Pratama",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2014-10-29"
+    "nama": "DIAN FERDIANSYAH",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 202,
-    "nama": "Zainal Rahma",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-04-11"
+    "nama": "DUDUNG HIDAYAT",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Operator 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 203,
-    "nama": "Edo Puspita",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-11-10"
+    "nama": "ENTIS SUTISNA",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "SECT HEAD",
+    "tanggal_masuk": ""
   },
   {
     "id": 204,
-    "nama": "Eka Maulana",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-08-14"
+    "nama": "FARID RAHMAN",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 205,
-    "nama": "Indra Rahma",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-06-27"
+    "nama": "FERGI HERVIAN",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Operator 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 206,
-    "nama": "Titi Maulana",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2011-01-08"
+    "nama": "FREDDY SISWANTO",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Operator 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 207,
-    "nama": "Putri Eka Putra",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-09-27"
+    "nama": "FRIMA NUGRAHA",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 208,
-    "nama": "Joko Sukma",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-08-29"
+    "nama": "GALIH YANUAR KARSIDI",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 209,
-    "nama": "Maya Saputra",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-12-25"
+    "nama": "GUSWANDI",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 210,
-    "nama": "Xaverius Pratama",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-09-30"
+    "nama": "HARI KISWANTO",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "FORMEN",
+    "tanggal_masuk": ""
   },
   {
     "id": 211,
-    "nama": "Vina Firmansyah",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2016-06-29"
+    "nama": "HUSNY QURTUBI AHMAD",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Operator 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 212,
-    "nama": "Intan Putra",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2023-11-12"
+    "nama": "IQBAL SAEFUL ISLAM",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Operator 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 213,
-    "nama": "Sinta Mulyadi",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-05-17"
+    "nama": "ISMAIL ADITAMA",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Operator 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 214,
-    "nama": "Rizki Rahma",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2016-12-16"
+    "nama": "ISMAIL FADILAH",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Operator 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 215,
-    "nama": "Wahyu Ramadhan",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-07-23"
+    "nama": "MAHPUDIN INDRA PRAJA",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 216,
-    "nama": "Dian Fadli",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2024-06-23"
+    "nama": "MOCHAMMAD RIZQON",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "SECT HEAD",
+    "tanggal_masuk": ""
   },
   {
     "id": 217,
-    "nama": "Kartika Ramadhan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2013-06-06"
+    "nama": "NANDANG HASAN BASRI",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "SECT HEAD",
+    "tanggal_masuk": ""
   },
   {
     "id": 218,
-    "nama": "Fajar Bayu Haryanto",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2020-01-26"
+    "nama": "NUNU NUGRAHA",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Operator 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 219,
-    "nama": "Edo Hendrawan",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2024-01-26"
+    "nama": "PAJAR SUTARMAN",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Formen",
+    "tanggal_masuk": ""
   },
   {
     "id": 220,
-    "nama": "Vina Saputra",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2016-02-29"
+    "nama": "RAHMAT SUTARJO",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "SECT HEAD",
+    "tanggal_masuk": ""
   },
   {
     "id": 221,
-    "nama": "Nadia Kusuma",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2010-11-05"
+    "nama": "RASWAN",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 222,
-    "nama": "Eka Kurniawan",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2012-01-10"
+    "nama": "RUWADITA RAHMAN",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "FORMEN",
+    "tanggal_masuk": ""
   },
   {
     "id": 223,
-    "nama": "Robby Puspita",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2010-12-03"
+    "nama": "RYAN AKBAR",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Operator 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 224,
-    "nama": "Indra Iskandar",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2021-03-31"
+    "nama": "TATA TARYANA",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Operator",
+    "tanggal_masuk": ""
   },
   {
     "id": 225,
-    "nama": "Kartika Sari",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2011-11-22"
+    "nama": "TATANG ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Operator 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 226,
-    "nama": "Rika Hendrawan",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-11-09"
+    "nama": "TIAN SETIAWAN",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Senior Formen",
+    "tanggal_masuk": ""
   },
   {
     "id": 227,
-    "nama": "Dian Fadli",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2018-09-09"
+    "nama": "UJANG SOPIAN",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "FORMEN",
+    "tanggal_masuk": ""
   },
   {
     "id": 228,
-    "nama": "Dila Sukma",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2024-07-08"
+    "nama": "YUDHA PERMANA",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "Operator 1",
+    "tanggal_masuk": ""
   },
   {
     "id": 229,
-    "nama": "Wahyu Pratama",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-08-27"
+    "nama": "YULIYANTO",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "SECT HEAD",
+    "tanggal_masuk": ""
   },
   {
     "id": 230,
-    "nama": "Ilham Wahyuni",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2017-11-05"
+    "nama": "ZULKARNAEN A,ST",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Ammonia 1B",
+    "jabatan": "AVP",
+    "tanggal_masuk": ""
   },
   {
     "id": 231,
-    "nama": "Umi Sari",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-11-26"
+    "nama": "Fauzi jaka A",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 232,
-    "nama": "Umi Utami",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2025-05-16"
+    "nama": "Ade Jarkasih",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 233,
-    "nama": "Dian Pratama",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-02-18"
+    "nama": "Andri Sudjana",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 234,
-    "nama": "Umi Wahyu Haryanto",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2013-01-31"
+    "nama": "Ardian Listya Mardhanu",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 235,
-    "nama": "Kartika Pratama",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2021-10-23"
+    "nama": "Ardiyan Ramadhan S",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 236,
-    "nama": "Dewi Maulana",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2013-06-17"
+    "nama": "Atim",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 237,
-    "nama": "Luthfi Haryanto",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2010-12-24"
+    "nama": "Ceppy Ariswandi",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 238,
-    "nama": "Dila Kurniawan",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2020-01-26"
+    "nama": "Dani Hendriyani",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 239,
-    "nama": "Putri Utami",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-10-17"
+    "nama": "Dede Nurzaman",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 240,
-    "nama": "Indra Suryadi",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2013-08-20"
+    "nama": "Dede Teguh Sugiharto",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 241,
-    "nama": "Nur Gunawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2018-04-29"
+    "nama": "Deden Indra Lesmana",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 242,
-    "nama": "Lina Iskandar",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2013-08-06"
+    "nama": "Dilli Eko Yuda",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 243,
-    "nama": "Sigit Kartika Suryadi",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2014-12-24"
+    "nama": "Fahmi Fathony",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 244,
-    "nama": "Indra Kurnia",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-04-05"
+    "nama": "Fajar Nugraha",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 245,
-    "nama": "Yuni Ramadhan",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-02-23"
+    "nama": "Fiqri Iqbal",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 246,
-    "nama": "Hendra Mulyadi",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2016-06-08"
+    "nama": "Iman Akbar",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 247,
-    "nama": "Farah Aulia",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2011-10-12"
+    "nama": "M. Ade Putra Lubis",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 248,
-    "nama": "Budi Yuliana",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2023-08-28"
+    "nama": "Mastra Sukenda",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 249,
-    "nama": "Dian Rahma",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-01-27"
+    "nama": "Nana Kurnia",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 250,
-    "nama": "Rizki Rahma",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-03-18"
+    "nama": "Rahmat Bayu",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 251,
-    "nama": "Ilham Utami",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2013-03-22"
+    "nama": "Satria Jogi Pratama",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 252,
-    "nama": "Titi Rahma",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-03-15"
+    "nama": "Soni Sonjaya",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 253,
-    "nama": "Gita Fajar Fadli",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-05-21"
+    "nama": "Sugeng Sucipto",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 254,
-    "nama": "Lina Santoso",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2018-05-17"
+    "nama": "Supandi",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 255,
-    "nama": "Sari Prasetyo",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-09-26"
+    "nama": "Suparman Suryaningrat ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 256,
-    "nama": "Hendra Sukma",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-03-31"
+    "nama": "Suryono",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 257,
-    "nama": "Wahyu Mulyadi",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-02-02"
+    "nama": "Tajudin",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 258,
-    "nama": "Joko Pratama",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2010-12-25"
+    "nama": "Tito Suharto",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 259,
-    "nama": "Nur Kurnia",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-03-07"
+    "nama": "Tono Hadi Hartono",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 260,
-    "nama": "Farah Yuliana",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-01-27"
+    "nama": "Trisna Wijaya Kusuma",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 261,
-    "nama": "Wahyu Yuliana",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2019-11-12"
+    "nama": "Ujang Sutono",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Urea 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 262,
-    "nama": "Zainal Bayu Sutanto",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2021-08-24"
+    "nama": "Amo",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 263,
-    "nama": "Sigit Gunawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-01-18"
+    "nama": "Dadi Apandi           ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 264,
-    "nama": "Andi Wibowo",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2016-11-15"
+    "nama": "Komarudin             ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 265,
-    "nama": "Indra Puspita",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-01-11"
+    "nama": "Muhamad Fauzan",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 266,
-    "nama": "Dewi Xaverius Prasetyo",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-04-15"
+    "nama": "Nana Kusmana    ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 267,
-    "nama": "Fajar Maulana",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2025-03-28"
+    "nama": "Niko Anugerah S  ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 268,
-    "nama": "Luthfi Sari",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2010-10-13"
+    "nama": "Oden                    ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 269,
-    "nama": "Joko Pratama",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-09-21"
+    "nama": "Panca Darma K     ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 270,
-    "nama": "Dewi Puspita",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-09-22"
+    "nama": "Rusdinar Ramdani",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 271,
-    "nama": "Edo Saputra",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2015-08-07"
+    "nama": "Tarno Susanto     ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 272,
-    "nama": "Intan Santoso",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-08-07"
+    "nama": "Abdul Latif",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 273,
-    "nama": "Intan Yuliana",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2016-05-28"
+    "nama": "Adi Ridwan",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 274,
-    "nama": "Bayu Setiawan",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-12-31"
+    "nama": "Amin Yusri",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 275,
-    "nama": "Indra Pratama",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-06-16"
+    "nama": "Anggi Fauzi Zulfikar",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 276,
-    "nama": "Lina Utami",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2025-09-15"
+    "nama": "Anggit Iman Setiawan",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 277,
-    "nama": "Maya Gunawan",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2013-02-11"
+    "nama": "Anwar Saepul B",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 278,
-    "nama": "Rizki Gunawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-06-25"
+    "nama": "Asep Nano",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 279,
-    "nama": "Lina Saputra",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-09-26"
+    "nama": "Asep Rahmat Hidayat",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 280,
-    "nama": "Dian Rahma",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-02-10"
+    "nama": "Cecep Supyadin",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 281,
-    "nama": "Fajar Suryadi",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-05-14"
+    "nama": "Dadan Dahlia",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 282,
-    "nama": "Nadia Haryanto",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-03-30"
+    "nama": "Dayat",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 283,
-    "nama": "Intan Fadli",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-11-28"
+    "nama": "Dede Irawan",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 284,
-    "nama": "Putri Dian Kurniawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-03-30"
+    "nama": "Evan Hertandi",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 285,
-    "nama": "Lina Yuliana",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-04-10"
+    "nama": "Firlana Trimurti P     ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 286,
-    "nama": "Luthfi Kartika Firmansyah",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2023-07-29"
+    "nama": "Gilang Herlambang",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 287,
-    "nama": "Wahyu Dewi Mulyadi",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-05-21"
+    "nama": "Herian Dwi Erdiawan",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 288,
-    "nama": "Edo Yuliana",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2010-09-06"
+    "nama": "Irman Sulaiman ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 289,
-    "nama": "Bayu Kurnia",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2020-10-31"
+    "nama": "Iwan Kurnia",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 290,
-    "nama": "Rizki Gunawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-06-12"
+    "nama": "Jaja Kirja",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 291,
-    "nama": "Eka Haryanto",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-08-10"
+    "nama": "Joko Susilo",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 292,
-    "nama": "Kartika Vina Sutanto",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-04-24"
+    "nama": "Muhamad Ramadhan",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 293,
-    "nama": "Rika Utami",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-02-01"
+    "nama": "Muhamad Yuda P",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 294,
-    "nama": "Rizki Saputra",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2019-05-19"
+    "nama": "Nanang Kosasih",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 295,
-    "nama": "Rizki Luthfi Sari",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2014-04-05"
+    "nama": "Rahmat Darajat",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 296,
-    "nama": "Luthfi Sinta Anggraini",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-01-08"
+    "nama": "Rahmat Permana",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 297,
-    "nama": "Rian Fadli",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-02-03"
+    "nama": "Rendy Januardy",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 298,
-    "nama": "Eka Wibowo",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-05-30"
+    "nama": "Riadhus Solikin",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 299,
-    "nama": "Riko Yuni Saputra",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-02-24"
+    "nama": "Ridwan Romansyah",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 300,
-    "nama": "Edo Utami",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-04-23"
+    "nama": "Sabda Maulana     ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 301,
-    "nama": "Indra Sukma",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2012-11-20"
+    "nama": "Sutaryanto",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 302,
-    "nama": "Hendra Putra",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2013-03-27"
+    "nama": "Tedi Setiadi",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 303,
-    "nama": "Nur Puspita",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2013-01-27"
+    "nama": "Wahyu Eka M",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 304,
-    "nama": "Wahyu Gunawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2021-07-25"
+    "nama": "Wili Mahardika",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   },
   {
     "id": 305,
-    "nama": "Joko Vina Sutanto",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2016-09-17"
-  },
-  {
-    "id": 306,
-    "nama": "Nadia Sutanto",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-08-17"
-  },
-  {
-    "id": 307,
-    "nama": "Umi Anggraini",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2019-05-06"
-  },
-  {
-    "id": 308,
-    "nama": "Nadia Wibowo",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-09-14"
-  },
-  {
-    "id": 309,
-    "nama": "Nadia Firmansyah",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-10-04"
-  },
-  {
-    "id": 310,
-    "nama": "Robby Sukma",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-11-04"
-  },
-  {
-    "id": 311,
-    "nama": "Intan Setiawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-06-27"
-  },
-  {
-    "id": 312,
-    "nama": "Oka Rahma",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2011-05-26"
-  },
-  {
-    "id": 313,
-    "nama": "Joko Fadli",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-06-14"
-  },
-  {
-    "id": 314,
-    "nama": "Vina Sari",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-02-27"
-  },
-  {
-    "id": 315,
-    "nama": "Sari Puspita",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-01-17"
-  },
-  {
-    "id": 316,
-    "nama": "Umi Sukma",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2017-02-10"
-  },
-  {
-    "id": 317,
-    "nama": "Farah Kurniawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-03-05"
-  },
-  {
-    "id": 318,
-    "nama": "Andi Rian Putra",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2016-06-14"
-  },
-  {
-    "id": 319,
-    "nama": "Gita Sari Kurniawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-01-30"
-  },
-  {
-    "id": 320,
-    "nama": "Sigit Iskandar",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-03-01"
-  },
-  {
-    "id": 321,
-    "nama": "Rizki Ramadhan",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2011-03-07"
-  },
-  {
-    "id": 322,
-    "nama": "Hendra Rahma",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2013-01-31"
-  },
-  {
-    "id": 323,
-    "nama": "Agus Sari",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2020-09-01"
-  },
-  {
-    "id": 324,
-    "nama": "Farah Hendrawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-04-30"
-  },
-  {
-    "id": 325,
-    "nama": "Gita Hendrawan",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2010-11-02"
-  },
-  {
-    "id": 326,
-    "nama": "Maya Maya Rahma",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2014-03-07"
-  },
-  {
-    "id": 327,
-    "nama": "Titi Kurnia",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2017-07-07"
-  },
-  {
-    "id": 328,
-    "nama": "Titi Andi Suryadi",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2013-01-04"
-  },
-  {
-    "id": 329,
-    "nama": "Rika Suryadi",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-04-17"
-  },
-  {
-    "id": 330,
-    "nama": "Sari Aulia",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-05-02"
-  },
-  {
-    "id": 331,
-    "nama": "Maya Rian Puspita",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-12-28"
-  },
-  {
-    "id": 332,
-    "nama": "Hendra Farah Haryanto",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-08-09"
-  },
-  {
-    "id": 333,
-    "nama": "Rizki Suryadi",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-11-07"
-  },
-  {
-    "id": 334,
-    "nama": "Agus Yuliana",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2020-06-09"
-  },
-  {
-    "id": 335,
-    "nama": "Umi Haryanto",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2025-06-25"
-  },
-  {
-    "id": 336,
-    "nama": "Intan Titi Hendrawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-12-30"
-  },
-  {
-    "id": 337,
-    "nama": "Farah Saputra",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-04-27"
-  },
-  {
-    "id": 338,
-    "nama": "Farah Sukma",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2023-05-13"
-  },
-  {
-    "id": 339,
-    "nama": "Gita Fadli",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2012-07-08"
-  },
-  {
-    "id": 340,
-    "nama": "Eka Mulyadi",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2013-05-12"
-  },
-  {
-    "id": 341,
-    "nama": "Luthfi Indra Sutanto",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-01-30"
-  },
-  {
-    "id": 342,
-    "nama": "Bayu Indra Pratama",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-04-27"
-  },
-  {
-    "id": 343,
-    "nama": "Sinta Firmansyah",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2010-06-28"
-  },
-  {
-    "id": 344,
-    "nama": "Rian Yuliana",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-07-03"
-  },
-  {
-    "id": 345,
-    "nama": "Xaverius Aulia",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2020-08-03"
-  },
-  {
-    "id": 346,
-    "nama": "Dewi Wibowo",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2024-06-27"
-  },
-  {
-    "id": 347,
-    "nama": "Dila Zainal Kurniawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-04-24"
-  },
-  {
-    "id": 348,
-    "nama": "Andi Saputra",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-01-19"
-  },
-  {
-    "id": 349,
-    "nama": "Rian Fadli",
-    "departemen": "Operasional",
-    "unit_kerja": "Produksi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2016-09-10"
-  },
-  {
-    "id": 350,
-    "nama": "Sinta Maulana",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-02-25"
-  },
-  {
-    "id": 351,
-    "nama": "Rizki Suryadi",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2012-07-13"
-  },
-  {
-    "id": 352,
-    "nama": "Dewi Gunawan",
-    "departemen": "Teknik",
-    "unit_kerja": "Maintenance",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-07-06"
-  },
-  {
-    "id": 353,
-    "nama": "Hendra Puspita",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2011-02-03"
-  },
-  {
-    "id": 354,
-    "nama": "Rizki Prasetyo",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-04-08"
-  },
-  {
-    "id": 355,
-    "nama": "Joko Putri Fadli",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-01-31"
-  },
-  {
-    "id": 356,
-    "nama": "Vina Ramadhan",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2019-04-11"
-  },
-  {
-    "id": 357,
-    "nama": "Umi Yuliana",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2024-01-16"
-  },
-  {
-    "id": 358,
-    "nama": "Riko Utami",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2021-10-06"
-  },
-  {
-    "id": 359,
-    "nama": "Vina Aulia",
-    "departemen": "Operasional",
-    "unit_kerja": "Logistik",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-01-24"
-  },
-  {
-    "id": 360,
-    "nama": "Farah Ramadhan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-05-21"
-  },
-  {
-    "id": 361,
-    "nama": "Eka Utami",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-09-17"
-  },
-  {
-    "id": 362,
-    "nama": "Rizki Yuliana",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2012-01-28"
-  },
-  {
-    "id": 363,
-    "nama": "Andi Prasetyo",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-07-27"
-  },
-  {
-    "id": 364,
-    "nama": "Ilham Nur Kusuma",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2014-11-13"
-  },
-  {
-    "id": 365,
-    "nama": "Farah Wahyu Setiawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-04-06"
-  },
-  {
-    "id": 366,
-    "nama": "Intan Farah Prasetyo",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2014-08-03"
-  },
-  {
-    "id": 367,
-    "nama": "Rian Iskandar",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-12-20"
-  },
-  {
-    "id": 368,
-    "nama": "Xaverius Wibowo",
-    "departemen": "Teknik",
-    "unit_kerja": "Engineering",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-07-13"
-  },
-  {
-    "id": 369,
-    "nama": "Vina Iskandar",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2014-12-18"
-  },
-  {
-    "id": 370,
-    "nama": "Kartika Santoso",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2016-08-15"
-  },
-  {
-    "id": 371,
-    "nama": "Kartika Setiawan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2021-03-14"
-  },
-  {
-    "id": 372,
-    "nama": "Lina Wahyu Hendrawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2024-05-23"
-  },
-  {
-    "id": 373,
-    "nama": "Bayu Suryadi",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-04-05"
-  },
-  {
-    "id": 374,
-    "nama": "Bayu Andi Haryanto",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-09-01"
-  },
-  {
-    "id": 375,
-    "nama": "Eka Sukma",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-11-11"
-  },
-  {
-    "id": 376,
-    "nama": "Kartika Santoso",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-04-21"
-  },
-  {
-    "id": 377,
-    "nama": "Robby Iskandar",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-05-17"
-  },
-  {
-    "id": 378,
-    "nama": "Dila Santoso",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2010-05-21"
-  },
-  {
-    "id": 379,
-    "nama": "Rika Mulyadi",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2012-02-29"
-  },
-  {
-    "id": 380,
-    "nama": "Dian Saputra",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2017-12-13"
-  },
-  {
-    "id": 381,
-    "nama": "Sigit Gunawan",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2015-06-16"
-  },
-  {
-    "id": 382,
-    "nama": "Putri Wibowo",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Intern",
-    "tanggal_masuk": "2024-07-29"
-  },
-  {
-    "id": 383,
-    "nama": "Dewi Pratama",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2024-04-13"
-  },
-  {
-    "id": 384,
-    "nama": "Agus Aulia",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2017-06-06"
-  },
-  {
-    "id": 385,
-    "nama": "Edo Dian Wahyuni",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Rendalhar",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2025-07-12"
-  },
-  {
-    "id": 386,
-    "nama": "Edo Anggraini",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2022-03-07"
-  },
-  {
-    "id": 387,
-    "nama": "Edo Maulana",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Manager",
-    "tanggal_masuk": "2023-03-02"
-  },
-  {
-    "id": 388,
-    "nama": "Kartika Sukma",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Rekrutmen",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2022-08-25"
-  },
-  {
-    "id": 389,
-    "nama": "Rizki Firmansyah",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Administrasi SDM",
-    "jabatan": "Supervisor",
-    "tanggal_masuk": "2017-06-10"
-  },
-  {
-    "id": 390,
-    "nama": "Zainal Sukma",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2017-10-04"
-  },
-  {
-    "id": 391,
-    "nama": "Eka Wijaya",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Pengendalian",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2023-10-08"
-  },
-  {
-    "id": 392,
-    "nama": "Ilham Vina Putra",
-    "departemen": "Perencanaan",
-    "unit_kerja": "Perencanaan Proyek",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2020-02-08"
-  },
-  {
-    "id": 393,
-    "nama": "Bayu Ramadhan",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-02-21"
-  },
-  {
-    "id": 394,
-    "nama": "Zainal Pratama",
-    "departemen": "Keuangan",
-    "unit_kerja": "Akuntansi",
-    "jabatan": "Senior Staff",
-    "tanggal_masuk": "2011-11-04"
-  },
-  {
-    "id": 395,
-    "nama": "Sigit Saputra",
-    "departemen": "Operasional",
-    "unit_kerja": "Quality Control",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-02-02"
-  },
-  {
-    "id": 396,
-    "nama": "Hendra Pratama",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2016-01-19"
-  },
-  {
-    "id": 397,
-    "nama": "Hendra Saputra",
-    "departemen": "Sumber Daya Manusia",
-    "unit_kerja": "Pelatihan",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2021-06-29"
-  },
-  {
-    "id": 398,
-    "nama": "Dila Wijaya",
-    "departemen": "Keuangan",
-    "unit_kerja": "Penggajian",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2023-06-01"
-  },
-  {
-    "id": 399,
-    "nama": "Vina Wahyuni",
-    "departemen": "Keuangan",
-    "unit_kerja": "Budgeting",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2011-11-25"
-  },
-  {
-    "id": 400,
-    "nama": "Lina Rizki Kurnia",
-    "departemen": "Teknik",
-    "unit_kerja": "R&D",
-    "jabatan": "Staff",
-    "tanggal_masuk": "2018-07-16"
+    "nama": "Yusril Azhar F        ",
+    "departemen": "PRODUKSI 1B",
+    "unit_kerja": "Bagian Utility 1B",
+    "jabatan": "",
+    "tanggal_masuk": ""
   }
 ]
